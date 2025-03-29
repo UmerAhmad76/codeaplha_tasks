@@ -1,0 +1,1 @@
+A Python implementation of the classic word-guessing game. The player guesses letters to uncover a hidden word before running out of attempts. Features include random word selection, live feedback, attempt tracking, and win/loss detection. Built with loops, conditionals, and string handling for a fun, interactive experience. Simple, engaging, and great for learning Python basics.
